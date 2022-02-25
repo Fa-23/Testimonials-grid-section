@@ -12,8 +12,13 @@ html {
 body {
     max-width: 1440px;
     background-color: hsl(0, 0%, 100%);
-    padding-left: 6rem;
-    padding-right: 6rem;
+    padding: 4rem;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .articles {
@@ -89,8 +94,7 @@ body {
     border-radius: 50%;
 }
 .article--daniel .articles__photo, 
-.article--patrick .articles__photo
- {
+.article--patrick .articles__photo {
     border: .15rem solid hsl(266, 63%, 61%);
 }
 .articles__titles {
@@ -136,8 +140,7 @@ a {
 /*MEDIA*/
 @media screen and (max-width: 900px){
     body {
-        padding-left: 3rem;
-        padding-right: 3rem;
+        padding: 2rem;
     }
     .grid-container {
         display: flex;
