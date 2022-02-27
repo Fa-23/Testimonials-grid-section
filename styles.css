@@ -145,4 +145,7 @@ a {
         display: flex;
         flex-direction: column; 
     }
+
+    .article--daniel {
+        background-position-x: 13rem;
 }
