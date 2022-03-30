@@ -1,3 +1,3 @@
 # Testimonials-grid-section
  A challengue from Frontend Mentor to practice html and css 
- https://testimonials-grid-section-one-zeta.vercel.app/
+https://fa-23.github.io/Testimonials-grid-section/
